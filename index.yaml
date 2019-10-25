@@ -3,11 +3,20 @@ entries:
   demo-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-10-25T14:22:29.147571+02:00"
+    created: "2019-10-25T14:34:38.699356+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 81ec7eff7478c5b7bb84137bbc5d8812e18ae69cb1e8fe85c98e7da4f499a33b
+    name: demo-app
+    urls:
+    - https://adys.github.io/helm-charts-demo/demo-app-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-25T14:34:38.699041+02:00"
     description: A Helm chart for Kubernetes
     digest: 2e00e336d78a319bd324b2e0cd807a071efcdf6e2b2d82588b5a4bd3c5137106
     name: demo-app
     urls:
     - https://adys.github.io/helm-charts-demo/demo-app-0.1.0.tgz
     version: 0.1.0
-generated: "2019-10-25T14:22:29.145379+02:00"
+generated: "2019-10-25T14:34:38.69852+02:00"
